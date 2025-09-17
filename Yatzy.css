@@ -1,0 +1,15 @@
+#dicesDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#turnDiv {
+    display: flex;
+    justify-content: center;
+} 
+
+.diceImage {
+    border: chartreuse;
+    height: 20px;
+    width: 20px;
+}
